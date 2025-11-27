@@ -16,7 +16,7 @@ from forms import CreatePostForm, RegisterForm, LoginForm, CommentsForm
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'use_ur_own_key'
 ckeditor = CKEditor(app)
 Bootstrap5(app)
 
@@ -27,7 +27,6 @@ login_manager.login_view = "login"
 
 @login_manager.user_loader
 def load_user(user_id):
-    print('logged in')
     return db.session.get(User, int(user_id))
 
 # CREATE DATABASE
