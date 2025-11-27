@@ -69,7 +69,8 @@ The goal was to build a secure, scalable platform where users can register, mana
 
 | Rich Text Editor | Comment System |
 | :---: | :---: |
-| ![Editor](screenshots/editor.png) | ![Comments](screenshots/comments.png) |
+| ![Editor](screenshots/blogs.png) | ![Comments](screenshots/comments.png) |
+| ![Editor](screenshots/login.png) | ![Comments](screenshots/register.png) |
 
 ##  Contact
 
