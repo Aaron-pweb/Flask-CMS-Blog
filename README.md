@@ -43,7 +43,7 @@ The goal was to build a secure, scalable platform where users can register, mana
 * **Forms:** Flask-WTF, WTForms
 * **Editor:** Flask-CKEditor
 
-## 💻 How to Run This Project
+##  #How to Run This Project
 
 1.  **Clone the Repository**
     ```bash
