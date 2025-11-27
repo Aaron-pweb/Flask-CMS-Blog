@@ -65,7 +65,7 @@ The goal was to build a secure, scalable platform where users can register, mana
 4.  **Access the App**
     Open your browser and navigate to `http://127.0.0.1:5002`
 
-## 📸 More Previews
+## #More Previews
 
 | Rich Text Editor | Comment System |
 | :---: | :---: |
